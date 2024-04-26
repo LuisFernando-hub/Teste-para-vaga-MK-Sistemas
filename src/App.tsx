@@ -8,9 +8,6 @@ import SideBar from "./components/Sidebar/Sidebar";
 import React, { useEffect } from "react";
 import Cart from "./components/Cart/Cart";
 
-
-
-
 function App() {
   const { data, isLoading } = useProductsData();
 

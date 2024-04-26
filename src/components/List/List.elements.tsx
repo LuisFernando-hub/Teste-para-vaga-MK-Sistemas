@@ -6,7 +6,8 @@ export const Container = styled.div`
   justify-content: center;
   align-items: center;
   width: 100%;
-  height: calc(100vh - 107px);
+  height: calc(100vh - 100px);
+  
 `;
 
 export const ProductGridDiv = styled.div`
